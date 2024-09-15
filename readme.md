@@ -12,7 +12,6 @@ This is a dark-light contrast website for a portfolio. It is related to being a 
 - Background image overlays
 - Typewriter effect in header
 - Lightbox modals for projects
-- Progress bar stats
 - Font awesome icons
 
 ## Usage
